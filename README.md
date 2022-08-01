@@ -2,8 +2,6 @@
 
 ### I am Monir 👋
 
-<!--
-**monijaman/monijaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #Since 2009 I have been working as a Fullstack developer. During this time I have developed several large applications successfully. 
 
