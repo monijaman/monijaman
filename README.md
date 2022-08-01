@@ -1,16 +1,20 @@
 ### Hi there 👋
 
+### I am Monir 👋
+
 <!--
 **monijaman/monijaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Since 2009 I have been working as a Fullstack developer. During this time I have developed several large applications successfully. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am experienced at:
+
+- ⚡ MERN Stack  (React, Node, NextJs)
+- ⚡ LAMP (PHP and Frameworks)
+- ⚡ MySQL, MongoDB
+- ⚡ HTML5, CSS3, Twitter Bootstrap
+- ⚡ Javascript, Jquery
+- ⚡ AWS, Heroku 
+ 
+
+ 
